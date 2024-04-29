@@ -1,0 +1,16 @@
+.dateSelector {
+  background-color: transparent;
+}
+
+.dateSelector_title p {
+  font-family: "Poppins";
+}
+
+.mobile_input {
+  font-family: "Poppins";
+}
+
+.download_btn {
+  font-family: "Poppins";
+  font-size: x-large;
+}
